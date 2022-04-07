@@ -2,7 +2,7 @@
 
 
 For experimental details please refer to [our paper](https://ieeexplore.ieee.org/abstract/document/9529198), and the code is adapted from [UER](https://github.com/dbiir/UER-py).
-<p align="center"><img width = "400" height = "300" alt="图片名称"src="workflow.png"></p>
+<p align="center"><img width = "500" height = "400" alt="图片名称"src="workflow.png"></p>
 <br/>
 
 ## Abstract
